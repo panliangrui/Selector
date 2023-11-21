@@ -39,7 +39,7 @@ TCGA :
 ## Train
 
 ```python
-python ./HG-FCMAE/trainour.py
+python ./HG-FCMAE/train_our.py
 ```
 
 ## Notice
